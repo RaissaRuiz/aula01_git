@@ -1,0 +1,9 @@
+Comandos git:
+
+D:\2BI_mandyerai>git config --global user.name "mandyerai"
+
+D:\2BI_mandyerai>git config --global user.email "raissa.anastacio@etec.sp.gov.br"
+
+git init
+
+git status
